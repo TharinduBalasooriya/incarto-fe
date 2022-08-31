@@ -1,0 +1,36 @@
+.main_logo{
+    width: 250px;
+    height: 250px;
+}
+
+.sec_logo{
+  width: 80px;
+  height: 80px;
+}
+
+.secc_logo{
+  width: 70px;
+  height: 70px;
+}
+.shadow-box-example {
+    height: 120px;
+    width: 100%;
+    background-color: #64b5f6;
+  }
+
+  .model_bg  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400;
+    border: 2px solid #000;
+    background-color: aliceblue;
+    box-shadow: 10px 13px 19px 8px #9E9E9E;
+  }
+
+  .text_st{
+    font-family: 'Work Sans', sans-serif;
+
+  }
+

@@ -1,0 +1,14 @@
+.scoreContainer{
+
+    width: 300px;
+    max-height: 300px;
+    margin-top: 30px;
+    margin-left:100px ;
+ 
+
+}
+.loadinImageScore{
+    background-color: black;
+    height: 20px;
+}
+

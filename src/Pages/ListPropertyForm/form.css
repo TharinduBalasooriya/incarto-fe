@@ -1,0 +1,23 @@
+.container-lg{
+    padding: 20px;
+}
+
+.parent {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.child-right {
+    background:green;
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.btn-primary{ 
+    background-color: #003153 !important;
+    border-color: #003153 !important;
+}
